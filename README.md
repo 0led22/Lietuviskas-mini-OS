@@ -14,4 +14,4 @@ tada parasykite "knygelė"
 kad paleisti reikia tureti python
 
 
-Šitas projektas buvo naudojamas ant raspberry pi kaip expermentas
+Šitas kodas buvo naudojamas kaip projektas ant raspberry pi
